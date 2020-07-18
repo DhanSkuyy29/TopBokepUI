@@ -1,0 +1,8 @@
+name: TopBokepUI
+main: TopBokep\DhanSkuyy\Main
+version: 1.0.0
+api: 3.1.0, 4.0.0
+author: DhanSkuyy
+commands:
+  topbokep:
+    description: "§a§oIni Lah Top Bokep Wanita Di Dunia"
